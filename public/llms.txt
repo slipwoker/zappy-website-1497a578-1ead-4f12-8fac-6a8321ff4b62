@@ -1,61 +1,51 @@
-# MANO RIVER DIAMONDS — Generative Engine Optimization Map
-
-> MANO RIVER DIAMONDS is a private diamond office specializing in natural fancy color diamonds, particularly Fancy Vivid Yellow and Fancy Intense Yellow. The brand emphasizes exclusivity, rarity, and trust, sourcing rough diamonds from the Mano River region in West Africa (Liberia & Sierra Leone) and polishing them in Israel's prestigious Ramat Gan Diamond Exchange. The aesthetic is quiet luxury - dark, elegant, and minimal with cinematic presentation, communicating long-term value and refined expertise to discerning B2B clients.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://mano-river-diamonds-1497a578.zappy5.app
+https://example.com
 Private diamond office specializing in natural fancy vivid yellow diamonds from West Africa. Exclusive access to rare, certified stones for traders and collectors.
 
 ### Origin
-https://mano-river-diamonds-1497a578.zappy5.app/origin
+https://example.com/origin
 Sourced from Liberia and Sierra Leone&#39;s Mano River region, polished in Israel&#39;s Ramat Gan Exchange. Discover the journey of exceptional fancy yellow diamonds.
 
 ### Inventory
-https://mano-river-diamonds-1497a578.zappy5.app/inventory
+https://example.com/inventory
 Curated collection of natural fancy intense and vivid yellow diamonds. Wholesale access to investment-grade stones for high jewelry houses and serious buyers.
 
 ### Certification
-https://mano-river-diamonds-1497a578.zappy5.app/certification
+https://example.com/certification
 Every fancy color diamond certified by leading gemological laboratories. Guaranteed authenticity, grading transparency, and complete documentation for B2B confidence.
 
 ### Contact
-https://mano-river-diamonds-1497a578.zappy5.app/contact
+https://example.com/contact
 Reach our private diamond office for exclusive access to natural fancy vivid yellow diamonds. Trusted partnerships with traders, jewelers, and collectors worldwide.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://mano-river-diamonds-1497a578.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://mano-river-diamonds-1497a578.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://mano-river-diamonds-1497a578.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About MANO RIVER DIAMONDS
-MANO RIVER DIAMONDS is a private diamond office specializing in natural fancy color diamonds, particularly Fancy Vivid Yellow and Fancy Intense Yellow. The brand emphasizes exclusivity, rarity, and trust, sourcing rough diamonds from the Mano River region in West Africa (Liberia & Sierra Leone) and polishing them in Israel's prestigious Ramat Gan Diamond Exchange. The aesthetic is quiet luxury - dark, elegant, and minimal with cinematic presentation, communicating long-term value and refined expertise to discerning B2B clients.
-
-## Target Audience
-B2B diamond traders, high jewelry houses, collectors, and serious buyers
-
-## Industry
-luxury diamonds and precious stones
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://mano-river-diamonds-1497a578.zappy5.app/sitemap.xml
-- **Robots.txt**: https://mano-river-diamonds-1497a578.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
