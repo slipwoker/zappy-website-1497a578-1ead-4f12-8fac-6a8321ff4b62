@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mano-river-diamonds-1497a578.zappy5.app/sitemap.xml
